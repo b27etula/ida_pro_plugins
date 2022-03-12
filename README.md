@@ -1,1 +1,1 @@
-# ida_pro_plugins
+# IDA Pro plugins
